@@ -29,9 +29,6 @@ int main()
     cout << "Honap: \n";
     cout << d4.honap() << endl << endl;
 
-
-
-
     Datum d5(2020, 2, 28);
     Datum d6(2020, 2, 29);
     Datum d7(2021, 2, 28);
